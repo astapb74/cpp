@@ -1,4 +1,5 @@
 # Microsoft visual c++ and opencv
 
 
-Примеры с распознованием лиц на Web camere.
+Примеры с распознованием лиц на Web camere.  
+Детектор движений.
